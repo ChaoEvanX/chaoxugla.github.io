@@ -21,8 +21,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md", title: "About me", icon: address-card}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "c.xu.2@research.gla.ac.uk"}
-  - {title: Github, icon: github, url: "https://github.com/ChaoEvanX"}
+  - {title: Mail, icon: envelope, url: "mailto:c.xu.2@research.gla.ac.uk"}
+  - {title: Github, icon: github, url: "https://github.com/evanchaoxu"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/Chao229515882"}
 
 comments:
