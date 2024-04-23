@@ -1,6 +1,6 @@
 title: "Chao Xu"
 author: "Chao Xu"
-description: "University of Glasgow"
+description: - {title: "University of Glasgow", url: "https://www.gla.ac.uk/pgrs/chaoxu/"}
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
